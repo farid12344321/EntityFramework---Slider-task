@@ -1,0 +1,367 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css"
+          integrity="sha512-X/RSQYxFb/tvuz6aNRTfKXDnQzmnzoawgEQ4X8nZNftzs8KFFH23p/BA6D2k0QCM4R0sY1DEy9MIY9b3fwi+bg=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css"
+          integrity="sha512-f28cvdA4Bq3dC9X9wNmSx21rjWI+5piIW/uoc2LuQ67asKxfQjUow2MkcCNcfJiaLrHcGbed1wzYe3dlY4w9gA=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="row">
+            <div class="col-6 blacknav">
+
+                <div class="change">
+                    <div class="currency">
+                        <div class="dropdown">
+                            <a class="btn btn-secondary dropdown-toggle dorpdowntoogle2" href="#" role="button"
+                               data-bs-toggle="dropdown" aria-expanded="false">
+                                USD
+                            </a>
+                            <ul class="dropdown-menu dropdownmenu">
+                                <li><a class="dropdown-item" href="#">EUR</a></li>
+                                <li><a class="dropdown-item" href="#">USD</a></li>
+                            </ul>
+
+
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="language">
+                        <div class="dropdown">
+                            <button class="btn btn-secondary dropdown-toggle dropdowntoggle" type="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                <img src="./assets/img/gb.svg" alt="">
+                                <span>Engilsh</span>
+                            </button>
+                            <ul class="dropdown-menu flags-list">
+
+                                <li>
+                                    <img src="./assets/img/german.svg" alt="">
+                                    <a class="dropdown-item" href="#">German</a>
+                                </li>
+
+                                <li>
+                                    <img src="./assets/img/french.svg" alt="">
+                                    <a class="dropdown-item" href="#">French</a>
+                                </li>
+                                <li>
+                                    <img src="./assets/img/russian.svg" alt="">
+                                    <a class="dropdown-item" href="#">Russian</a>
+                                </li>
+                                <li>
+                                    <img src="./assets/img/turkish.svg" alt="">
+                                    <a class="dropdown-item" href="#">Turkish</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+
+
+
+            </div>
+
+
+            <div class="col-6 blacknav2">
+
+                <div class="wishlist">
+                    <ul>
+                        <li>
+                            <a href="./wishlist.html">
+                                <i class="fa-regular fa-heart"></i>
+                                WISHLIST
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="compare">
+                    <ul>
+                        <li>
+                            <a href="">
+                                <i class="fa-solid fa-code-compare"></i>
+                                COMPARE
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+
+                <div class="myaccount">
+                    <ul>
+                        <li>
+                            <a href="./myaccount.html">
+                                <i class="fa-solid fa-user"></i>
+                                My Account
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+
+
+            </div>
+        </div>
+
+
+
+
+
+        <div class="row">
+            <div class="col-8 orangenav">
+
+                <a href="./index.html">
+                    <img src="./assets/img/sophia.png" alt="">
+                </a>
+
+
+
+                <div class="input-search">
+                    <input placeholder="Type to search" type="text">
+                    <button class="btn-search">Search</button>
+                </div>
+
+
+            </div>
+
+
+
+            <div class="col-2 orangenav2">
+
+                <div class="icon">
+                    <i class="fa-solid fa-phone"></i>
+                </div>
+
+                <div class="call">
+                    <p>Helpline:</p>
+                    <p class="p1">02(981)336 111</p>
+                </div>
+
+            </div>
+
+            <div class="col-2 orangenav3">
+
+                <button>
+                    <div class="icon">
+                        <a href="">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                            <span class="span1">0</span>
+
+                            <div class="span2">$0.00</div>
+                        </a>
+                    </div>
+                </button>
+
+
+            </div>
+
+
+
+        </div>
+
+
+        <div class="col-12">
+            <div class="navbar">
+                <!-- <p>home</p>
+                <p>about</p>
+                <p>contact</p>
+                <p>pages</p> -->
+                <div class="selections">
+                    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                        <div class="container-fluid">
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                    aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle home" href="#" role="button"
+                                           data-bs-toggle="dropdown" aria-expanded="false">
+                                            Home
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="./index.html">Home-1</a></li>
+                                            <li><a class="dropdown-item" href="#">Home-2</a></li>
+                                            <li><a class="dropdown-item" href="#">Home-3</a></li>
+                                            <li><a class="dropdown-item" href="#">Home-4</a></li>
+                                            <li><a class="dropdown-item" href="#">Home-5</a></li>
+                                            <li><a class="dropdown-item" href="#">Industirial</a></li>
+                                            <li><a class="dropdown-item" href="#">Food</a></li>
+                                            <li><a class="dropdown-item" href="#">Furniture</a></li>
+                                            <li><a class="dropdown-item" href="#">Home Decor</a></li>
+                                            <li><a class="dropdown-item" href="#">Cosmetic</a></li>
+
+                                        </ul>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link active about" aria-current="page"
+                                           href="./about.html">About</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="nav-link active contact" aria-current="page"
+                                           href="./contact.html">Contact</a>
+                                    </li>
+
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle pages" href="#" role="button"
+                                           data-bs-toggle="dropdown" aria-expanded="false">
+                                            Pages
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="#">Faq</a></li>
+                                            <li><a class="dropdown-item" href="./wishlist.html">Wsihlist</a></li>
+                                            <li><a class="dropdown-item" href="#">Testimonials</a></li>
+                                            <li><a class="dropdown-item" href="#">Compare</a></li>
+                                            <li><a class="dropdown-item" href="./chechkout.html">Checkout</a></li>
+                                            <li><a class="dropdown-item" href="./cart.html">Cart</a></li>
+                                            <li><a class="dropdown-item" href="./myaccount.html">My Account</a></li>
+                                            <li><a class="dropdown-item" href="#">404</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link active about" aria-current="page" href="./blog.html">Blog</a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+
+
+            </div>
+        </div>
+    </header>
+            @RenderBody()
+
+    <footer>
+        <div class="col-12">
+            <div class="footer">
+                <div class="container">
+                    <div class="col-3">
+                        <div class="footer1">
+                            <img src="./assets/img/sophia2.png" alt="">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean malesuada fringilla sem,
+                                at dictum lectus ultricies quis. Etiam eu bibendum orci. Aliquam erat volutpat.
+
+                                MORE ABOUT US
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-3">
+                        <div class="footer2">
+                            <h5>Services</h5>
+                            <p>Hotel Growth</p>
+                            <p>Hotel Loan</p>
+                            <p>Financial Planning</p>
+                            <p>Insurance Consulting</p>
+                            <p>Retirenment Planing</p>
+                            <p>Tax Planing</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-3">
+                        <div class="footer3">
+                            <h5>Subscribe Newsletter</h5>
+
+                            <div class="form">
+                                <p>Get latest updates and offers.</p>
+                                <input type="text" name="" id="" placeholder="   Enter your email address">
+                                <a href="">
+                                    <button>SUBSCRIBE US</button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-3">
+                        <div class="footer4">
+                            <h5>Contact Us</h5>
+
+                            <div class="location">
+                                <i class="fa-solid fa-location-dot"></i>
+                                <p>Apple St, New York, NY 10012, USA</p>
+                            </div>
+
+                            <div class="number">
+                                <i class="fa-solid fa-phone"></i>
+                                <p>( 018) 65 524 8503 / (125) 954 7854</p>
+                            </div>
+
+                            <div class="message">
+                                <i class="fa-solid fa-envelope"></i>
+                                <p>contact@lamarena.com</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+    <!-- dcndjcjd -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
+            integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- dkfdkfk -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"
+            integrity="sha512-9CWGXFSJ+/X0LWzSRCZFsOPhSfm6jbnL+Mpqo0o8Ke2SYr8rCTqb4/wGm+9n13HtDE1NQpAEOrMecDZw4FXQGg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- dsjndsj  -->
+    <script>
+        $(document).ready(function () {
+            $(".owl-carousel").owlCarousel();
+        });
+    </script>
+    <!-- dmfbndjfb -->
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.11.6/dist/umd/popper.min.js"
+            integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"
+            integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD"
+            crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/c367a3eb97.js" crossorigin="anonymous"></script>
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>

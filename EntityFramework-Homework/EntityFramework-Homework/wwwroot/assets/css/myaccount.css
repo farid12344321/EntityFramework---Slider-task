@@ -1,0 +1,398 @@
+.blacknav {
+  height: 70px;
+  background-color: black;
+  position: relative;
+}
+.blacknav .currency {
+  margin-left: 130px;
+  margin-top: 12px;
+  font-size: 14px;
+  color: black;
+  position: absolute;
+}
+.blacknav .currency a {
+  background-color: black;
+  border: 1px solid black;
+  color: #c3c3c3;
+}
+.blacknav .language {
+  margin-left: 240px;
+  margin-top: 12px;
+  position: absolute;
+}
+.blacknav .language button {
+  background-color: black;
+  border: 1px solid black;
+  color: #c3c3c3;
+}
+.blacknav .language button img {
+  width: 18px;
+  height: 14px;
+}
+.blacknav .language .flags-list img {
+  width: 18px;
+  height: 14px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.blacknav .language .flags-list a {
+  margin-left: 20px;
+}
+
+.blacknav2 {
+  position: relative;
+  height: 70px;
+  font-weight: 500;
+  background-color: black;
+  display: flex;
+}
+.blacknav2 .wishlist {
+  margin-top: 20px;
+}
+.blacknav2 .wishlist ul {
+  list-style: none;
+}
+.blacknav2 .wishlist a {
+  margin-left: 250px;
+  font-size: 15px;
+  color: #c3c3c3;
+  text-decoration: none;
+}
+.blacknav2 .compare {
+  margin-top: 20px;
+}
+.blacknav2 .compare ul {
+  list-style: none;
+}
+.blacknav2 .compare a {
+  font-size: 15px;
+  color: #c3c3c3;
+  text-decoration: none;
+}
+.blacknav2 .myaccount {
+  margin-top: 20px;
+}
+.blacknav2 .myaccount ul {
+  list-style: none;
+}
+.blacknav2 .myaccount a {
+  font-size: 15px;
+  color: #c3c3c3;
+  text-decoration: none;
+}
+
+.orangenav {
+  height: 100px;
+  background-color: #FA6C00;
+  position: relative;
+}
+.orangenav img {
+  margin-left: 140px;
+  margin-top: 30px;
+}
+.orangenav .input-search {
+  text-align: center;
+  margin-top: -40px;
+  margin-left: 350px;
+}
+.orangenav .input-search input {
+  border-radius: 3px;
+  width: 600px;
+  height: 40px;
+  border: 1px solid white;
+}
+.orangenav .input-search button {
+  width: 120px;
+  height: 40px;
+  margin-left: -120px;
+  border-radius: 3px;
+  background-color: black;
+  color: white;
+  position: absolute;
+}
+
+.orangenav2 {
+  height: 100px;
+  background-color: #FA6C00;
+}
+.orangenav2 .icon {
+  margin-left: 25px;
+  font-size: 30px;
+  margin-top: 20px;
+  color: white;
+}
+.orangenav2 .call {
+  color: white;
+  margin-left: 70px;
+  margin-top: -45px;
+  font-weight: 500;
+}
+.orangenav2 .call .p1 {
+  margin-top: -20px;
+  font-size: 20px;
+}
+
+.orangenav3 {
+  position: relative;
+  height: 100px;
+  background-color: #FA6C00;
+}
+.orangenav3 button {
+  background-color: #FA6C00;
+  border: 1px solid #FA6C00;
+}
+.orangenav3 .icon a {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+}
+.orangenav3 .span1 {
+  position: absolute;
+  top: -5px;
+  background: #222;
+  height: 18px;
+  width: 18px;
+  line-height: 18px;
+  border-radius: 50%;
+  font-size: 12px;
+}
+.orangenav3 .span2 {
+  position: absolute;
+  font-size: 17px;
+  margin-left: 28px;
+  margin-top: -22px;
+}
+
+.navbar {
+  height: 70px;
+  background-color: rgb(237, 236, 236);
+  color: red;
+}
+.navbar .selections {
+  margin-top: -5px;
+}
+.navbar .home {
+  margin-left: 120px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar .pages {
+  font-size: 18px;
+  margin-left: 50px;
+  font-weight: 600;
+}
+.navbar .contact {
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar .about {
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#main-account .main-all {
+  height: 328px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+#main-account .main-all .text-login {
+  height: 67px;
+}
+#main-account .main-all .text-login h2 {
+  position: relative;
+  padding-top: 12px;
+}
+#main-account .main-all .text-login h2:before {
+  content: "";
+  left: 0;
+  position: absolute;
+  width: 86%;
+  height: 0.0625rem;
+  bottom: -0.99rem;
+  background-color: #e1e0e0;
+}
+#main-account .main-all .text-login h2:after {
+  content: "";
+  left: 0;
+  position: absolute;
+  width: 2.5rem;
+  height: 0.125rem;
+  background-color: #222;
+  bottom: -0.99rem;
+}
+#main-account .main-all .text-register {
+  height: 67px;
+}
+#main-account .main-all .text-register h2 {
+  position: relative;
+  padding-top: 12px;
+}
+#main-account .main-all .text-register h2:before {
+  content: "";
+  left: 0;
+  position: absolute;
+  width: 95%;
+  height: 0.0625rem;
+  bottom: -0.99rem;
+  background-color: #e1e0e0;
+}
+#main-account .main-all .text-register h2:after {
+  content: "";
+  left: 0;
+  position: absolute;
+  width: 2.5rem;
+  height: 0.125rem;
+  background-color: #222;
+  bottom: -0.99rem;
+}
+#main-account .main-all .left form .group {
+  position: relative;
+  margin-top: 30px;
+}
+#main-account .main-all .left form .group input,
+#main-account .main-all .left form .group textarea {
+  font-size: 14px;
+  display: block;
+  width: 560px;
+  border: none;
+  border-bottom: 1px solid #949494;
+  outline: none;
+}
+#main-account .main-all .left form .group input:focus ~ label, #main-account .main-all .left form .group input:valid ~ label,
+#main-account .main-all .left form .group textarea:focus ~ label,
+#main-account .main-all .left form .group textarea:valid ~ label {
+  top: -8px;
+  font-size: 10px;
+}
+#main-account .main-all .left form .group input:focus ~ .bar::before, #main-account .main-all .left form .group input:focus ~ .bar::after,
+#main-account .main-all .left form .group textarea:focus ~ .bar::before,
+#main-account .main-all .left form .group textarea:focus ~ .bar::after {
+  width: 50%;
+}
+#main-account .main-all .left form .group input {
+  padding: 10px 0 10px 5px;
+}
+#main-account .main-all .left form .group textarea {
+  height: 110px;
+  padding: 10px 0 0 5px;
+  resize: none;
+}
+#main-account .main-all .left form .group label {
+  color: #999;
+  font-size: 14px;
+  position: absolute;
+  pointer-events: none;
+  left: 5px;
+  top: 10px;
+  transition: 0.4s ease all;
+  -moz-transition: 0.2s ease all;
+  -webkit-transition: 0.2s ease all;
+}
+#main-account .main-all .left form .group .bar {
+  position: relative;
+  display: block;
+  width: 90%;
+}
+#main-account .main-all .left form .group .bar::before, #main-account .main-all .left form .group .bar::after {
+  content: "";
+  height: 2px;
+  width: 0;
+  bottom: 1px;
+  position: absolute;
+  background: var(--beforeAndAfterBack, #ef6c00);
+  transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -webkit-transition: 0.2s ease all;
+  z-index: 1;
+}
+#main-account .main-all .left form .group .bar::before {
+  left: 46%;
+}
+#main-account .main-all .left form .group .bar::after {
+  right: 50%;
+}
+#main-account .main-all .left form .group .validation {
+  font-size: 10px;
+  color: red;
+  transition: 0.4s;
+  opacity: 0;
+}
+#main-account .main-all .left form button {
+  width: 100px;
+  height: 45px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  background-color: #ef6c00;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.footer {
+  width: 100%;
+  height: 350px;
+  background-color: rgb(233, 233, 233);
+  margin-top: 80px;
+}
+.footer .footer1 {
+  width: 275px;
+  height: 260px;
+}
+.footer .footer1 img {
+  margin-top: 50px;
+}
+.footer .footer1 p {
+  margin-top: 10px;
+}
+.footer .footer2 {
+  width: 100%;
+  height: 260px;
+  margin-top: 50px;
+}
+.footer .footer2 p {
+  cursor: pointer;
+}
+.footer .footer3 {
+  width: 100%;
+  height: 260px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.footer .footer3 input {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+}
+.footer .footer3 button {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #FA6C00;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+.footer .footer4 {
+  width: 100%;
+  height: 260px;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+.footer .footer4 .location p {
+  margin-left: 20px;
+  margin-top: -25px;
+}
+.footer .footer4 .number p {
+  margin-left: 20px;
+  margin-top: -25px;
+}
+.footer .footer4 .message p {
+  margin-left: 20px;
+  margin-top: -25px;
+}/*# sourceMappingURL=myaccount.css.map */

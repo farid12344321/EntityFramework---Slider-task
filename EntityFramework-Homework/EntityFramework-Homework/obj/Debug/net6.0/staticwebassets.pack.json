@@ -1,0 +1,293 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EntityFramework-Homework.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EntityFramework-Homework.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\about.css",
+      "PackagePath": "staticwebassets\\assets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\cart.css",
+      "PackagePath": "staticwebassets\\assets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\cart.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\cart.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\cart.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\chechkout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\chechkout.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\chechkout.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\chechkout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\chechkout.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\chechkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\myaccount.css",
+      "PackagePath": "staticwebassets\\assets\\css\\myaccount.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\myaccount.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\myaccount.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\myaccount.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\myaccount.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\wsihlist.css",
+      "PackagePath": "staticwebassets\\assets\\css\\wsihlist.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\wsihlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\wsihlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\css\\wsihlist.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\wsihlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\3 doctors.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3 doctors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\aboutus 1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\aboutus 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\camera1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\camera1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel6.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel7.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\coursel8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\coursel8.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\french.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\french.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\gb.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\german.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\german.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\laptopsens.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptopsens.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\laptopwifismart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\laptopwifismart.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\peter.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\peter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\peter2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\peter2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\peter3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\peter3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\peter4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\peter4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\picture1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\picture1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\picture2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\picture2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\picture3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\picture3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\picture4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\picture4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\picture5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\picture5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\russian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\russian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\section3-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\section3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\sophia.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sophia.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\sophia2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sophia2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\tablet1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tablet1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\tabletextralight.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tabletextralight.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\telephon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\telephon1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\turkish.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\turkish.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\img\\yellow computer.png",
+      "PackagePath": "staticwebassets\\assets\\img\\yellow computer.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\ckeckout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ckeckout.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\myaccount.js",
+      "PackagePath": "staticwebassets\\assets\\js\\myaccount.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\EntityFramework\\EntityFramework-Homework\\EntityFramework-Homework\\wwwroot\\assets\\js\\wsihlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wsihlist.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EntityFramework-Homework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EntityFramework-Homework.props",
+      "PackagePath": "build\\EntityFramework-Homework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EntityFramework-Homework.props",
+      "PackagePath": "buildMultiTargeting\\EntityFramework-Homework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EntityFramework-Homework.props",
+      "PackagePath": "buildTransitive\\EntityFramework-Homework.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

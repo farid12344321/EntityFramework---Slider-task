@@ -1,0 +1,466 @@
+﻿
+@model List<Slider>
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<section id="slider">
+    <div class="container-fluid">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    @foreach (var item in Model)
+                    {
+                        <img src="./assets/img/@item.Image" alt="">
+                    }
+                   
+                    <h1>HUGE SALE</h1>
+                    <h3>Up To 70%</h3>
+                    <a href="">
+                        <button>
+                            <span>Shop Now</span>
+                        </button>
+                    </a>
+                </div>
+
+
+                <div class="swiper-slide">
+
+                @*    <img src="./assets/img/banner2.jpg" alt="">*@
+                    <h1>BIGGEST DISCOUNT</h1>
+                    <h3>Check the promotion</h3>
+                    <a href="">
+                        <button>
+                            <span>Shop Now</span>
+                        </button>
+                    </a>
+                </div>
+
+
+                <div class="swiper-slide">
+                 @*   <img src="./assets/img/picture2.jpg" alt="">*@
+                    <h1>BIGGEST SALE</h1>
+                    <h3>Dont miss it</h3>
+                    <a href="">
+                        <button>
+                            <span>Shop Now</span>
+                        </button>
+                    </a>
+                </div>
+
+
+                <div class="swiper-slide">
+                  @*  <img src="./assets/img/picture3.jpg" alt="">*@
+                    <h1>OUR BEST PRODUCTS</h1>
+                    <h3>Special selection</h3>
+                    <a href="">
+                        <button>
+                            <span>Shop Now</span>
+                        </button>
+                    </a>
+                </div>
+
+
+                <div class="swiper-slide slide">
+                  @*  <img src="./assets/img/picture5.jpg" alt="">*@
+
+                    <div class="massive">
+                        <h1>MASSIVE SALE</h1>
+                        <h3>Only for today</h3>
+                        <a href="">
+                            <button>
+                                <span>Shop Now</span>
+                            </button>
+                        </a>
+                    </div>
+
+                </div>
+
+
+            </div>
+            <!-- <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div> -->
+            <div class="swiper-pagination"></div>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+<div class="container">
+    <div class="col-3">
+        <div class="bonus-plus">
+            <i class="fa-solid fa-gift"></i>
+            <p>BONUS PLUS</p>
+            <span>Get a bonus plus for buying more that</span>
+            <span>three products</span>
+        </div>
+    </div>
+
+
+    <div class="col-3">
+        <div class="free-shipping">
+            <i class="fa-sharp fa-solid fa-truck"></i>
+            <p>FREE SHIPPING</p>
+            <span>Free shipping on all orders over $99</span>
+        </div>
+    </div>
+
+    <div class="col-3">
+        <div class="many-back-guarentee">
+            <i class="fa-solid fa-file-invoice-dollar"></i>
+            <p>MONEY BACK GUARANTEE</p>
+            <span>100% money back guarantee</span>
+        </div>
+    </div>
+
+    <div class="col-3">
+        <div class="online-support">
+            <i class="fa-solid fa-clock-rotate-left"></i>
+
+            <p>ONLINE SUPPORT 24/7</p>
+            <span>Call us: 02 3555 65454 55</span>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container">
+    <div class="tab-menu">
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home"
+                        aria-selected="true">
+                    FEATURED PRODUCTS
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile"
+                        aria-selected="false">
+                    LATEST PRODUCTS
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill"
+                        data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact"
+                        aria-selected="false">
+                    ON SALE PRODUCTS
+                </button>
+            </li>
+        </ul>
+
+
+
+    </div>
+
+</div>
+
+
+
+
+<div class="container">
+
+    <div class="owl-carousel">
+
+        <div class="card1">
+            <img src="./assets/img/coursel1.png" alt="">
+            <span class="headphones">Headphones</span>
+
+            <h4>ONTECE Headset </h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$175.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+
+        </div>
+
+        <div class="card2">
+            <img src="./assets/img/coursel2.png" alt="">
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Solo Headset </h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$235.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+
+        <div class="card3">
+            <img src="./assets/img/coursel3.png" alt="">
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Ultra Whitte Wireless</h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$350.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+
+        <div class="card4">
+            <img src="./assets/img/coursel4.png" alt="">
+
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Wireless Mondo</h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$266.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+
+        <div class="card5">
+            <img src="./assets/img/coursel5.png" alt="">
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Headset Perro </h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$88.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+
+        <div class="card6">
+            <img src="./assets/img/coursel6.png" alt="">
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Dono Purole Wireless</h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$100.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+
+        <div class="card7">
+            <img src="./assets/img/coursel7.png" alt="">
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Tablet Red 8500U 2TB </h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$100.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+
+        <div class="card8">
+            <img src="./assets/img/coursel8.png" alt="">
+
+            <span class="headphones">Headphones</span>
+
+            <h4>Ellite Pro Book 15'6</h4>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star"></i>
+
+
+            <p>$850.00</p>
+
+
+            <a href="">
+                <button>
+                    <span>
+                        ADD TO CART
+                    </span>
+                    <i class="fa-solid fa-cart-shopping shopping"></i>
+                </button>
+
+
+            </a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<section id="discounts">
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-6">
+                <div class="products1">
+                    <img src="./assets/img/section3-1.png" alt="">
+                    <div class="text">
+                        <h4>NEW LAPTOPS</h4>
+                        <p>Sale up to 30% off all products in the new collection.</p>
+                        <a href="">Shop Now</a>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="col-3">
+                <div class="products2">
+                    <img src="./assets/img/tablet1.png" alt="">
+
+                    <div class="text-box">
+                        <h4>TABLETS, SMARTPHONES AND MORE</h4>
+                        <p>Sale up to 30%.</p>
+                        <a href="">Shop Now</a>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-3">
+                <div class="products3">
+
+                    <img src="./assets/img/camera1.png" alt="">
+                    <div class="text-box2">
+                        <h4>NEW CAMERAS COLLECTION</h4>
+                        <p>Sale up to 30%.</p>
+                        <a href="">Shop Now</a>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+            <div class="col-12">
+                <div class="products4">
+                    <img src="./assets/img/telephon1.png" alt="">
+
+                    <div class="text-box3">
+                        <h1>CACH BIG OFFERS ON CAMERAS</h1>
+                        <p>Sale up to 20%</p>
+                        <a href="">
+                            <button>$66.99</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>

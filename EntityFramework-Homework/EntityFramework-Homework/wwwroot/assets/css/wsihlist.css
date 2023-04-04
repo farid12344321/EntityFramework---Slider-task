@@ -1,0 +1,313 @@
+.blacknav {
+  height: 70px;
+  background-color: black;
+  position: relative;
+}
+.blacknav .currency {
+  margin-left: 130px;
+  margin-top: 12px;
+  font-size: 14px;
+  color: black;
+  position: absolute;
+}
+.blacknav .currency a {
+  background-color: black;
+  border: 1px solid black;
+  color: #c3c3c3;
+}
+.blacknav .language {
+  margin-left: 240px;
+  margin-top: 12px;
+  position: absolute;
+}
+.blacknav .language button {
+  background-color: black;
+  border: 1px solid black;
+  color: #c3c3c3;
+}
+.blacknav .language button img {
+  width: 18px;
+  height: 14px;
+}
+.blacknav .language .flags-list img {
+  width: 18px;
+  height: 14px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.blacknav .language .flags-list a {
+  margin-left: 20px;
+}
+
+.blacknav2 {
+  position: relative;
+  height: 70px;
+  font-weight: 500;
+  background-color: black;
+  display: flex;
+}
+.blacknav2 .wishlist {
+  margin-top: 20px;
+}
+.blacknav2 .wishlist ul {
+  list-style: none;
+}
+.blacknav2 .wishlist a {
+  text-decoration: none;
+  margin-left: 250px;
+  font-size: 15px;
+  color: #c3c3c3;
+}
+.blacknav2 .compare {
+  margin-top: 20px;
+}
+.blacknav2 .compare ul {
+  list-style: none;
+}
+.blacknav2 .compare a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #c3c3c3;
+}
+.blacknav2 .myaccount {
+  margin-top: 20px;
+}
+.blacknav2 .myaccount ul {
+  list-style: none;
+}
+.blacknav2 .myaccount a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #c3c3c3;
+}
+
+.orangenav {
+  height: 100px;
+  background-color: #FA6C00;
+  position: relative;
+}
+.orangenav img {
+  margin-left: 140px;
+  margin-top: 30px;
+}
+.orangenav .input-search {
+  text-align: center;
+  margin-top: -40px;
+  margin-left: 350px;
+}
+.orangenav .input-search input {
+  border-radius: 3px;
+  width: 600px;
+  height: 40px;
+  border: 1px solid white;
+}
+.orangenav .input-search button {
+  width: 120px;
+  height: 40px;
+  margin-left: -120px;
+  border-radius: 3px;
+  background-color: black;
+  color: white;
+  position: absolute;
+}
+
+.orangenav2 {
+  height: 100px;
+  background-color: #FA6C00;
+}
+.orangenav2 .icon {
+  margin-left: 25px;
+  font-size: 30px;
+  margin-top: 20px;
+  color: white;
+}
+.orangenav2 .call {
+  color: white;
+  margin-left: 70px;
+  margin-top: -45px;
+  font-weight: 500;
+}
+.orangenav2 .call .p1 {
+  margin-top: -20px;
+  font-size: 20px;
+}
+
+.orangenav3 {
+  position: relative;
+  height: 100px;
+  background-color: #FA6C00;
+}
+.orangenav3 button {
+  background-color: #FA6C00;
+  border: 1px solid #FA6C00;
+}
+.orangenav3 .icon a {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+}
+.orangenav3 .span1 {
+  position: absolute;
+  top: -5px;
+  background: #222;
+  height: 18px;
+  width: 18px;
+  line-height: 18px;
+  border-radius: 50%;
+  font-size: 12px;
+}
+.orangenav3 .span2 {
+  position: absolute;
+  font-size: 17px;
+  margin-left: 28px;
+  margin-top: -22px;
+}
+
+.navbar {
+  height: 70px;
+  background-color: rgb(237, 236, 236);
+  color: red;
+}
+.navbar .selections {
+  margin-top: -5px;
+}
+.navbar .home {
+  margin-left: 120px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar .pages {
+  font-size: 18px;
+  margin-left: 50px;
+  font-weight: 600;
+}
+.navbar .contact {
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar .about {
+  margin-left: 50px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+main #mains .main-main {
+  display: block;
+  height: 220px;
+  text-align: center;
+  padding-top: 7%;
+}
+main #mains .main-main .buttons {
+  width: 400px;
+  height: 26%;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  background-color: #ff0000;
+}
+main #mains .main-main .buttons span {
+  color: white;
+}
+main #mains .main-main .buttons:hover {
+  background-color: #ee3232;
+}
+main #mains .main-main button {
+  width: 190px;
+  height: 40px;
+  background-color: #ff7300;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.footer {
+  width: 100%;
+  height: 350px;
+  background-color: rgb(233, 233, 233);
+}
+.footer .footer1 {
+  width: 275px;
+  height: 260px;
+}
+.footer .footer1 img {
+  margin-top: 50px;
+}
+.footer .footer1 p {
+  margin-top: 10px;
+}
+.footer .footer2 {
+  width: 100%;
+  height: 260px;
+  margin-top: 50px;
+}
+.footer .footer2 p {
+  cursor: pointer;
+}
+.footer .footer3 {
+  width: 100%;
+  height: 260px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.footer .footer3 input {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+}
+.footer .footer3 button {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #FA6C00;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+.footer .footer4 {
+  width: 100%;
+  height: 260px;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+.footer .footer4 .location p {
+  margin-left: 20px;
+  margin-top: -25px;
+}
+.footer .footer4 .number p {
+  margin-left: 20px;
+  margin-top: -25px;
+}
+.footer .footer4 .message p {
+  margin-left: 20px;
+  margin-top: -25px;
+}
+
+.about-us h4 {
+  position: absolute;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 17px;
+  margin-top: 20px;
+}
+.about-us ul {
+  list-style: none;
+}
+.about-us a {
+  text-decoration: none;
+  float: right;
+  margin-top: 15px;
+  margin-right: 100px;
+  margin-left: -125px;
+  color: black;
+  font-weight: 500;
+}
+.about-us p {
+  float: right;
+  font-weight: 500;
+}/*# sourceMappingURL=wsihlist.css.map */
